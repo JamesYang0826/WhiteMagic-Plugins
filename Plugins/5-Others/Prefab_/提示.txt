@@ -1,0 +1,17 @@
+Monster：
+	Prefab_Monster/Mst_91_NewBlueBuff/Mst_NewBlueBuff_Actorinfo.bytes
+	Prefab_Monster/Mst_92_NewRedBuff/Mst_NewRedBuff_Actorinfo.bytes
+
+Soldier：
+	Prefab_Soldier/New_GoldRangeSoldier/New_GoldRangeSoldier_ActorInfo.bytes
+	Prefab_Soldier/New_GoldRangeSoldier_Red/New_GoldRangeSoldier_Red_ActorInfo.bytes
+	Prefab_Soldier/New_MeleeSoldier/New_MeleeSoldier_ActorInfo.bytes
+	Prefab_Soldier/New_MeleeSoldier/New_MeleeSoldier_Red_ActorInfo.bytes
+	Prefab_Soldier/New_RangeSoldier/New_RangeSoldier_ActorInfo.bytes
+	Prefab_Soldier/New_RangeSoldier/New_RangeSoldier_Red_ActorInfo.bytes
+	Prefab_Soldier/New_SuperSoldier/New_SuperSoldier_ActorInfo.bytes
+	Prefab_Soldier/New_SuperSoldier/New_SuperSoldier_Red_ActorInfo.bytes
+	Prefab_Soldier/New_Truck/New_Truck_ActorInfo.bytes
+	Prefab_Soldier/New_Truck/New_Truck_Red_ActorInfo.bytes
+	Prefab_Soldier/Soldier_Bow/Soldier_Bow_ActorInfo.bytes
+	Prefab_Soldier/Soldier_Bow/Soldier_Bow_Red_ActorInfo.bytes
