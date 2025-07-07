@@ -1,6 +1,7 @@
 Monster：
 	Prefab_Monster/Mst_91_NewBlueBuff/Mst_NewBlueBuff_Actorinfo.bytes
 	Prefab_Monster/Mst_92_NewRedBuff/Mst_NewRedBuff_Actorinfo.bytes
+	Prefab_Monster/Mst_103_TreasureWyvern/Mst_103_TreasureWyvern_Actorinfo.bytes
 
 Soldier：
 	Prefab_Soldier/New_GoldRangeSoldier/New_GoldRangeSoldier_ActorInfo.bytes
